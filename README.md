@@ -37,9 +37,9 @@ chmod +x frp_install.sh
 
 └── conf/
 
-         ├── frpc.toml
+           ├── frpc.toml
     
-         └── frps.toml
+           └── frps.toml
 
 ## ⚙️ 服务管理
 ```bash
