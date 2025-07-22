@@ -67,4 +67,4 @@ systemctl daemon-reload
 **支持Windows吗？**
 **不支持** 仅限linux系统
 
-## 📜 ​​协议​​：MIT © JiexuantroNic(https://github.com/JiexuantroNic)
+## 📜 ​​协议​​：MIT © 'JiexuantroNic(https://github.com/JiexuantroNic)'
